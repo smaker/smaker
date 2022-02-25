@@ -16,5 +16,13 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
 
-## 데스크탑 앱
-<img src="https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white"/>
+## PC / Mac
+
+### 데스크탑 앱
+<img src="https://img.shields.io/badge/Electron.js-47848F?style=flat-square&logo=electron&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;
+
+## 모바일
+
+### Android
+<img src="https://img.shields.io/badge/NativeScript-3655FF?style=flat-square&logo=nativescript&logoColor=white"/>&nbsp;
