@@ -18,6 +18,6 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 
-[![SimpleCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=smaker&show_icons=true&count_private=true)](https://github.com/smaker/github-readme-stats)
+[![SimpleCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=smaker&show_icons=true&count_private=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&count_private=true)]
