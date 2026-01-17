@@ -23,5 +23,3 @@
 ![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smaker&theme=default) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smaker&theme=default)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=smaker&color=brightgreen&style=flat-square&label=Profile+Views)
-
-![Metrics](https://metrics.lecoq.io/smaker?template=classic&base=header%2C%20activity%2C%20community&languages=1&languages.limit=8&config.timezone=Asia%2FSeoul)
