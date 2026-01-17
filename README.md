@@ -18,10 +18,8 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white)
 
-## GitHub 통계
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smaker&theme=default)
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smaker&theme=github_dark)
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smaker&theme=default) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smaker&theme=default)
 
-![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smaker&theme=github_dark) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smaker&theme=github_dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smaker&theme=dark&locale=ko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smaker&theme=default&locale=ko)
